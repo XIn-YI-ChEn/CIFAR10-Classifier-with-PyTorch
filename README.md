@@ -1,1 +1,1 @@
-# CIFAR10-Classifier-with-PyTorch
+# CIFAR10-Classifier
